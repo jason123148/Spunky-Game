@@ -52,14 +52,6 @@ Spunky Game is primarily a web-based game, accessible directly through your brow
 
 ---
 
-## Popular Modes and Mods
-
-* **Classic Mode:**  The original Spunky Game experience.
-* **Challenge Mode:** Test your skills with specific musical challenges.
-* **Community Mods:** Explore fan-created content and expand your musical possibilities. (Hypothetical - adapt as needed)
-
----
-
 ## Tips for Success
 
 * Experiment with different sound combinations.
