@@ -11,9 +11,8 @@ Spunky Game is a music creation game inspired by Incredibox. Explore unique char
 3. [Installation](#installation)
 4. [Gameplay Overview](#gameplay-overview)
 5. [Sprunki Phases](#sprunki-phases)
-6. [Popular Modes and Mods](#popular-modes-and-mods)
-7. [Tips for Success](#tips-for-success)
-8. [Resources](#resources)
+6. [Tips for Success](#tips-for-success)
+7. [Resources](#resources)
 
 
 ## Introduction
